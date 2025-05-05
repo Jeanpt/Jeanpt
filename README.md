@@ -1,4 +1,4 @@
-# 👾 Security researcher wired on caffeine and curiosity.
+# 👾 Security stuff.
 
 🛡️ **Security Researcher** | 🛠️ Security Engineer | 🔐 Zero Trust Engineer | 🎯 Offensive Security
 🔗 [Hack The Box](https://app.hackthebox.com/profile/2324447)
