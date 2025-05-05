@@ -35,5 +35,5 @@
 
 ## 🔗 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-jean.xp(x)%237032-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/jean.xp)  
+[![Discord](https://img.shields.io/badge/Discord-jean.xp-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/jean.xp)  
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/2324447)
