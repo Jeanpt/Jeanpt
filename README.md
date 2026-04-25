@@ -17,7 +17,7 @@
 
 ## 🔗 Profile
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/2324447)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat&logo=hackthebox)]([https://app.hackthebox.com/profile/2324447](https://app.hackthebox.com/public/users/2324447))
 
 ---
 
