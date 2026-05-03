@@ -1,12 +1,12 @@
 # 👾 Security stuff.
 
-🛡️ **Security Researcher** | 🛠️ Security Engineer | 🔐 Zero Trust Engineer | 🎯 Offensive Security  
+**Security Researcher** | Security Engineer | Zero Trust Engineer | Offensive Security  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeanpt&label=Profile%20views&color=8A2BE2&style=flat)
 
 ---
 
-## 🧪 Certifications
+## Certifications
 
 ![SecurityX](https://img.shields.io/badge/SecurityX-CompTIA-blue?style=flat&logo=compTIA)
 ![CISM](https://img.shields.io/badge/CISM-Certified-success?style=flat&logo=isaca)
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔗 Profile
+## Profile
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat&logo=hackthebox)](https://app.hackthebox.com/public/users/2324447)
 
