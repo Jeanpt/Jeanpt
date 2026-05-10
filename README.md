@@ -1,5 +1,5 @@
 # 👾 Security stuff.
-Security Enthusiast | Offensive & Defensive | Detection Engineering | Cloud Security  
+**Security Enthusiast** | Offensive & Defensive | Detection Engineering | Cloud Security  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeanpt&label=Profile%20views&color=8A2BE2&style=flat)
 ---
